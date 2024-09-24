@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   standalone: true,
   template: `
-    <h1>Welcome to {{title}}!</h1>
+    <h1>Welcome to {{title}}🦋!</h1>
 
     
   `,
